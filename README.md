@@ -1,15 +1,15 @@
 # Project-BeTheHero
 
-Be The Hero is the project of the week OmniStack 11.0 from Rocket Seat, with the objective of building an application for the contact of NGOs with donors.
+Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objetivo de criar um aplicativo para o contato de ONGs com doadores.
 
 ## Technologies used:
-* Node.js - Backend
-* React - Frontend web
+* Node.js - Back-end
+* React - Front-end web
 * SQLite - Database
 
 ## Installation:
 
-To run this downloaded repository - for your machine or for a Git Clone
+Para executar este repositório, baixe em sua máquina ou execute um Git Clone
 
 ```bash
 git clone https://github.com/MichelleBudri/Project-BeTheHero.git
@@ -18,21 +18,21 @@ git clone https://github.com/MichelleBudri/Project-BeTheHero.git
 
 ### Backend
 
-Open an `backend/` folder (in Windows Power Shell in administrator mode or on the linux terminal as root).
+Abra a pasta `backend /` (no Windows Powershell no modo administrador ou no terminal linux como root).
 
 
-`$ npm install` this command will install all modules supported by Node.JS
+`$ npm install` este comando instalará todos os módulos suportados pelo Node.JS
 
-`$ npm start ` will start the backend server at `localhost:3333\`
+`$ npm start ` iniciará o servidor back-end em `localhost:3333\`
 
 ---
 
 ### Frontend | Network
-Open an `frontend/` folder in Windows Power Shell in administrator mode or on the linux terminal as root.
+Abra a pasta `frontend /` no Windows Powershell no modo administrador ou no terminal linux como root.
 
 
-`$ npm install` this command will install all necessary modules for React
+`$ npm install` este comando instalará todos os módulos necessários para o React
 
 
 
-`$ npm start` Start the Frontend server at `localhost:3000\`
+`$ npm start` iniciará o servidor front-end em `localhost:3000\`
