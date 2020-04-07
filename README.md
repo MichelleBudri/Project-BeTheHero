@@ -2,12 +2,12 @@
 
 Be The Hero é o projeto da semana OmniStack 11.0 da Rocket Seat, com o objetivo de criar um aplicativo para o contato de ONGs com doadores.
 
-## Technologies used:
+## Tecnologias utilizadas:
 * Node.js - Back-end
 * React - Front-end web
 * SQLite - Database
 
-## Installation:
+## Instalação:
 
 Para executar este repositório, baixe em sua máquina ou execute um Git Clone
 
@@ -16,7 +16,7 @@ git clone https://github.com/MichelleBudri/Project-BeTheHero.git
 ```
 
 
-### Backend
+### Back-end
 
 Abra a pasta `backend /` (no Windows Powershell no modo administrador ou no terminal linux como root).
 
@@ -27,7 +27,7 @@ Abra a pasta `backend /` (no Windows Powershell no modo administrador ou no term
 
 ---
 
-### Frontend | Network
+### Front-end | Network
 Abra a pasta `frontend /` no Windows Powershell no modo administrador ou no terminal linux como root.
 
 
